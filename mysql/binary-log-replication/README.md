@@ -13,3 +13,10 @@ Useful on legacy systems, maybe MS Azure too.
 
 What happens when you write to slave? Set slave read-only
 What is the latency?
+
+
+# References
+https://dev.mysql.com/doc/refman/8.0/en/replication-howto-masterbaseconfig.html
+https://dev.mysql.com/doc/refman/8.0/en/replication-howto-slavebaseconfig.html
+https://docs.docker.com/compose/compose-file/#command
+https://dev.mysql.com/doc/refman/8.0/en/option-files.html
